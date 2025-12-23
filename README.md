@@ -2,8 +2,8 @@
 
 A **WPF (C#)** desktop application that visualizes **Depth-First Search (DFS)** and **Breadth-First Search (BFS)** on a **20×20 grid**.
 
-![DFS Demo](demo/dfs_demo.mp4)
-![BFS Demo](demo/bfs_demo.mp4)
+![DFS Demo](demo/dfs_demo.gif)
+![BFS Demo](demo/bfs_demo.gif)
 
 ## 🛠️ Technologies Used
 
